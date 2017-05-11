@@ -168,5 +168,8 @@
 -resource:"/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/obj/Debug/netcoreapp1.0/TodoWebApidotnet-compile.deps.json",TodoWebApi.deps.json
 "/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Program.cs"
 "/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Startup.cs"
-"/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Controllers/TodoController.cs"
+"/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Controllers/TodosController.cs"
 "/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Controllers/ValuesController.cs"
+"/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Model/Entities/TodoItem.cs"
+"/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Model/Repositories/InMemTodoRepository.cs"
+"/Users/clbo/Google Drive/KEA_Macbook/dotnet/09_API/09_code_from_teachings/TodoWebApi/Model/Repositories/ITodoRepository.cs"
